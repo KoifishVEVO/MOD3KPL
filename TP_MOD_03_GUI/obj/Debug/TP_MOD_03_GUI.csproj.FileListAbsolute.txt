@@ -1,0 +1,10 @@
+C:\Users\LENOVO\Downloads\skool tugas\Semester 4\Konstruksi\tp\mod3\TP_MOD_03_GUI\TP_MOD_03_GUI\bin\Debug\TP_MOD_03_GUI.exe.config
+C:\Users\LENOVO\Downloads\skool tugas\Semester 4\Konstruksi\tp\mod3\TP_MOD_03_GUI\TP_MOD_03_GUI\bin\Debug\TP_MOD_03_GUI.exe
+C:\Users\LENOVO\Downloads\skool tugas\Semester 4\Konstruksi\tp\mod3\TP_MOD_03_GUI\TP_MOD_03_GUI\bin\Debug\TP_MOD_03_GUI.pdb
+C:\Users\LENOVO\Downloads\skool tugas\Semester 4\Konstruksi\tp\mod3\TP_MOD_03_GUI\TP_MOD_03_GUI\obj\Debug\TP_MOD_03_GUI.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Downloads\skool tugas\Semester 4\Konstruksi\tp\mod3\TP_MOD_03_GUI\TP_MOD_03_GUI\obj\Debug\TP_MOD_03_GUI.Form1.resources
+C:\Users\LENOVO\Downloads\skool tugas\Semester 4\Konstruksi\tp\mod3\TP_MOD_03_GUI\TP_MOD_03_GUI\obj\Debug\TP_MOD_03_GUI.Properties.Resources.resources
+C:\Users\LENOVO\Downloads\skool tugas\Semester 4\Konstruksi\tp\mod3\TP_MOD_03_GUI\TP_MOD_03_GUI\obj\Debug\TP_MOD_03_GUI.csproj.GenerateResource.cache
+C:\Users\LENOVO\Downloads\skool tugas\Semester 4\Konstruksi\tp\mod3\TP_MOD_03_GUI\TP_MOD_03_GUI\obj\Debug\TP_MOD_03_GUI.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Downloads\skool tugas\Semester 4\Konstruksi\tp\mod3\TP_MOD_03_GUI\TP_MOD_03_GUI\obj\Debug\TP_MOD_03_GUI.exe
+C:\Users\LENOVO\Downloads\skool tugas\Semester 4\Konstruksi\tp\mod3\TP_MOD_03_GUI\TP_MOD_03_GUI\obj\Debug\TP_MOD_03_GUI.pdb
